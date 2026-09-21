@@ -1,0 +1,5 @@
+PORTAL V11 FOTOS
+- Mantém a arquitetura V10 e os planos de manutenção reais.
+- Aumenta o catálogo e adiciona novas fotos específicas confirmadas por modelo.
+- Não é usada foto genérica dentro das páginas das marcas: foto exata ou SEM FOTO.
+- Esta é uma etapa incremental; completar 100% das fotografias dos centenas de modelos requer novas passagens de verificação.

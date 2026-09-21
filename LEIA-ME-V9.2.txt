@@ -1,0 +1,6 @@
+V9.2 ATUALIZADO
+- A imagem Centrocar com as seis marcas foi incorporada LOCALMENTE e é agora o fundo principal da homepage.
+- McCloskey mantém a imagem fornecida previamente.
+- Bobcat usa uma imagem profissional de equipamento Bobcat a trabalhar.
+- Comacchio e EvoQuip não recebem uma fotografia errada. Enquanto imagens distintas não estiverem disponíveis como ficheiros, ficam com fundo de cor da marca.
+- Fotos internas continuam sob a regra: fotografia exata confirmada ou SEM FOTO.

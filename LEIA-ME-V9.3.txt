@@ -1,0 +1,6 @@
+PORTAL V9.3 FUNDOS CORRIGIDOS
+- EVOQUIP: usa agora a imagem verde Bison que estava incorretamente no McCloskey.
+- MCCLOSKEY: usa uma fotografia de McCloskey J4 em pedreira.
+- COMACCHIO: usa uma fotografia de perfuradora Comacchio MC40 em obra.
+- Fundo principal Centrocar com as seis marcas permanece incorporado localmente.
+- Páginas internas continuam a mostrar fotografia apenas quando o modelo exato está confirmado; restantes ficam SEM FOTO.

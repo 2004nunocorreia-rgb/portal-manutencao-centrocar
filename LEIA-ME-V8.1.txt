@@ -1,0 +1,5 @@
+V8.1 FOTOS
+- Página inicial: cartões de marca podem usar fotografia decorativa de uma máquina da marca, sem afirmar que representa um modelo específico.
+- Páginas internas: só mostram foto quando a associação ao modelo foi confirmada. As restantes ficam SEM FOTO.
+- Foram acrescentadas associações exatas confirmadas para Bobcat E35Z, Develon DX140LC-7, Haulotte HA20 E PRO e HA20 RTJ PRO, além das Develon já confirmadas na versão anterior.
+- McCloskey e Comacchio continuam sem foto quando não existe uma associação de imagem confirmada nesta versão.

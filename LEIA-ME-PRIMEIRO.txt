@@ -1,0 +1,8 @@
+PORTAL V6 FINAL
+1. Extrair TODO o ZIP para uma pasta nova.
+2. Executar VERIFICAR_V6_FINAL.bat. Deve mostrar mais de 16 modelos.
+3. Executar INICIAR_PORTAL.bat.
+4. Se vir uma pagina antiga no navegador, carregar Ctrl+F5.
+
+As imagens locais sao ilustrativas por familia e funcionam offline. Nao representam necessariamente o modelo exato.
+Na coluna Acao, X e apresentado visualmente como visto verde. O X original permanece na base para preservar os dados.

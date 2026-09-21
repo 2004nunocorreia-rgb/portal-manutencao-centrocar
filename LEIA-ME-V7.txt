@@ -1,0 +1,9 @@
+PORTAL V7 MODERNO
+- Novo visual escuro/grafite + laranja.
+- Imagem hero de oficina/parque industrial gerada para o portal e integrada localmente.
+- Segunda imagem industrial usada em fundo na secao Centrocar.
+- Fotografias ilustrativas de equipamentos integradas nos cartoes.
+- 122 modelos e 1351 linhas de manutencao preservados.
+- X continua a aparecer visualmente como check verde.
+
+IMPORTANTE: as imagens de fundo e imagens por familia sao ilustrativas, nao fotografias oficiais da Centrocar nem fotografias exatas de todos os modelos.

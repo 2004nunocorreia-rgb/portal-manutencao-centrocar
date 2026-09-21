@@ -1,0 +1,5 @@
+PORTAL V9 - 6 MARCAS
+DEVELON / BOBCAT / HAULOTTE / MCCLOSKEY / COMACCHIO / EVOQUIP
+Pagina inicial com imagem Centrocar em fundo e overlay escuro subtil para manter leitura.
+Cada cartão de marca pode usar uma imagem decorativa da própria marca, apenas na homepage.
+Nas páginas internas, se a fotografia exata do modelo não estiver confirmada, fica SEM FOTO.

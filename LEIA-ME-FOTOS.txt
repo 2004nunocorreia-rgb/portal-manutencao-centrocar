@@ -1,0 +1,6 @@
+V7.1 FOTOS EXATAS
+- Foram removidas as imagens genéricas dos cartões para não mostrar uma máquina errada.
+- Só aparecem como fotografia de modelo as imagens que foram associadas a uma página/fonte oficial exata.
+- Onde ainda não existe associação exata aparece: FOTO - A adicionar para MODELO.
+- As imagens de fundo do portal continuam ilustrativas e não são fotografias oficiais da Centrocar.
+- 122 modelos e 1351 linhas de manutenção permanecem intactos.

@@ -1,0 +1,5 @@
+V10 CATALOGO
+- Catálogo ampliado por marca com modelos adicionais encontrados em fontes atuais das marcas/dealers.
+- Fotografias do modelo só aparecem quando a correspondência modelo-foto foi confirmada. Caso contrário SEM FOTO.
+- Nesta passagem foram acrescentadas fotos exatas adicionais sobretudo em McCloskey e Comacchio.
+- Este portal preserva os planos de manutenção originais; novos modelos de catálogo não recebem planos inventados.
